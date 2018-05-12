@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40683'
     url: http://www.gutenberg.org/2009/agents/40683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40545#The-Splendid-Fairing
 gutenberg_issued: '2012-08-20'
 gutenberg_type: Text
 identifiers:
